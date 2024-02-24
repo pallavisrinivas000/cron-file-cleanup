@@ -1,0 +1,1 @@
+0 21 * * * /Users/pallavi/linux/delete_dmg_batch_job.sh >> /Users/pallavi/linux/logs/file.log 2>&1
