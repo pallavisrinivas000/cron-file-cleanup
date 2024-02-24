@@ -30,4 +30,7 @@ crontab crontab_file.txt
 To check : crontab -l
 
 
+# How to improve?
 
+1. Add how much data is being getting free up by this process to monitor the work.
+2. Also log all the files that are getting deleted to splunk.
